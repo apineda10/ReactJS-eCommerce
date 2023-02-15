@@ -1,0 +1,14 @@
+.navBar_items{
+    color:white ;
+    display: flex;
+    justify-content:flex-start;
+    align-items:flex-start;   
+    flex-direction: row;
+    margin: 5px;
+    list-style:none;
+    text-align:left;
+}
+
+.navBar_items li{
+    margin: 10px;
+}

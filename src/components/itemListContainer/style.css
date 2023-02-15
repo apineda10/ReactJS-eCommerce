@@ -1,0 +1,10 @@
+.container{
+    background-color: rgba(0, 255, 255, 0.336);
+    height:auto;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin:5px;
+}
